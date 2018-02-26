@@ -3,11 +3,12 @@
 <head>
 <link rel="stylesheet" type="text/css" href="travelblog.css"
 
-<title>Travel to Asia yipee</title>
+<h1>Travel to Asia</h1>
 </head>
 
 <body>
 <h1>We are travelling to Asia.</h1>
+<h2>I like food and cats.</h2>
 </body>
 
 </html>
