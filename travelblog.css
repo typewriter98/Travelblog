@@ -417,8 +417,8 @@ i{display:block;width:30px;height:30px;font-size:16px;text-align:center;line-hei
             width:42%;height:40px;padding:0 15px;
             border:1px solid #111;border-radius:0;background:transparent}
 
-            #contact .wrapper form input[type="email"]::-webkit-input-placeholder,#contact .wrapper form input[type="text"]::-webkit-input-placeholder{color:#111}#contact .wrapper form input[type="email"]::-moz-placeholder,#contact .wrapper form input[type="text"]::-moz-placeholder{color:#111}#contact .wrapper form input[type="email"]:-ms-input-placeholder,#contact .wrapper form input[type="text"]:-ms-input-placeholder{color:black}#contact .wrapper form input[type="email"]::placeholder,#contact
-            .wrapper form input[type="text"]::placeholder{color:#black}
+            #contact .wrapper form input[type="email"]::-webkit-input-placeholder,#contact .wrapper form input[type="text"]::-webkit-input-placeholder{color:#111}#contact .wrapper form input[type="email"]::-moz-placeholder,#contact .wrapper form input[type="text"]::-moz-placeholder{color:#111}#contact .wrapper form input[type="email"]:-ms-input-placeholder,#contact .wrapper form input[type="text"]:-ms-input-placeholder{color:#111}#contact .wrapper form input[type="email"]::placeholder,#contact
+            .wrapper form input[type="text"]::placeholder{color:#111}
 
             #contact .wrapper form input[type="email"]:focus,
             #contact .wrapper form input[type="text"]:focus{outline:none}
